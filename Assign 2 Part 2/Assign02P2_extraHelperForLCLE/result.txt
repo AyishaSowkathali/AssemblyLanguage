@@ -1,0 +1,76 @@
+Script started on Thu Mar  8 09:59:59 2018
+[?1034hbash-3.2$ ./a.out
+End adding ints? (y or Y = yes, others = no) n
+Enter integer #1: 4
+End adding ints? (y or Y = yes, others = no) y
+
+beginning a1: 4  
+          a2: 
+          a3: 
+          a4: 4  
+chkPointA a1: 
+          a2: 4  
+          a3: 
+          a4: 4  
+processed a1: 
+          a2: 4  
+          a3: 
+          a4: 4  
+
+Do another case? (n or N = no, others = yes) y
+
+End adding ints? (y or Y = yes, others = no) n
+Enter integer #1: 4 5
+End adding ints? (y or Y = yes, others = no) y
+
+beginning a1: 5  
+          a2: 
+          a3: 5  
+          a4: 
+chkPointA a1: 5  
+          a2: 
+          a3: 5  
+          a4: 
+processed a1: 5  
+          a2: 
+          a3: 5  
+          a4: 
+
+Do another case? (n or N = no, others = yes) y
+
+End adding ints? (y or Y = yes, others = no) n
+Enter integer #1: 4
+End adding ints? (y or Y = yes, others = no) n
+Enter integer #2: 5
+End adding ints? (y or Y = yes, others = no) y
+
+beginning a1: 4  
+          a2: 5  
+Segmentation fault: 11
+bash-3.2$ /[K./a.out
+End adding ints? (y or Y = yes, others = no) n
+Enter integer #1: 4
+End adding ints? (y or Y = yes, others = no) y
+
+beginning a1: 4  
+          a2: 
+          a3: 
+          a4: 4  
+chkPointA a1: 
+          a2: 4  
+          a3: 
+          a4: 4  
+processed a1: 
+          a2: 4  
+          a3: 
+          a4: 4  
+
+Do another case? (n or N = no, others = yes) n
+
+================================
+bye...
+================================
+bash-3.2$ exit
+exit
+
+Script done on Thu Mar  8 10:01:07 2018
