@@ -1,2 +1,2 @@
-Project from CS 2318 Assembly Language course 
+CS 2318 Assembly Language Project
 Texas State University
