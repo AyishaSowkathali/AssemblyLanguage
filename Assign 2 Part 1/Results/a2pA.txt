@@ -1,0 +1,10 @@
+Enter an integer: 1
+Integer entered: 1
+
+Enter a string (up to 50 characters): ABCDEABCDEABCDEABCDEABCDEABCDEABCDEABCDEABCDEABCDE
+String entered: ABCDEABCDEABCDEABCDEABCDEABCDEABCDEABCDEABCDEABCDE
+
+Enter a char: a
+Char entered: a
+
+-- program is finished running --

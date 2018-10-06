@@ -1,0 +1,5 @@
+Enter Exam 1 score: 90
+Enter Exam 2 score: 95
+Enter Final Exam score: 89
+Weighted Average score: 90
+-- program is finished running --

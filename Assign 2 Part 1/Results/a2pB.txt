@@ -1,0 +1,27 @@
+0 = EvEv, 1 = EvOd, 2 = OdEv, 3 = OdOd
+Enter 1st integer: 100
+Enter 2nd integer: 200
+
+100 and 200 are 0
+-- program is finished running --
+
+0 = EvEv, 1 = EvOd, 2 = OdEv, 3 = OdOd
+Enter 1st integer: -202
+Enter 2nd integer: -303
+
+-202 and -303 are 1
+-- program is finished running --
+
+0 = EvEv, 1 = EvOd, 2 = OdEv, 3 = OdOd
+Enter 1st integer: -333
+Enter 2nd integer: 444
+
+-333 and 444 are 2
+-- program is finished running --
+
+0 = EvEv, 1 = EvOd, 2 = OdEv, 3 = OdOd
+Enter 1st integer: 567
+Enter 2nd integer: -6789
+
+567 and -6789 are 3
+-- program is finished running --

@@ -1,0 +1,3 @@
+Array elements before swap: 100120023003
+Array elements after swap: 300320021001
+-- program is finished running --
